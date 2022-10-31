@@ -9,7 +9,7 @@ The main task is to analyse given audio file. The file contains four interfering
 Python3
 
 # Project results
-The results are described in [this paper](/text/project.pdf).
+The results are described in [this paper](/text/project.pdf) [Czech language].
 
 The signal spectrogram is shown on the image below. The 4 cosines are clearly visible.
 ![signal_spectrogram](/assets/images/signal.png)
